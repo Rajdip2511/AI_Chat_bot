@@ -1,6 +1,6 @@
 # 🤖 AI-Powered Software Development Chatbot
 
-![Live Demo]:(https://software-dev-chatbot-9042puy3d-rajdipcollege-gmailcoms-projects.vercel.app)
+![Live Demo]:https://software-dev-chatbot-4zz8halzr-rajdipcollege-gmailcoms-projects.vercel.app/
 ![GitHub]:(https://github.com/Rajdip2511/AI_Chat_bot)
 ![Node.js]:(https://nodejs.org/)
 ![Express.js]:(https://expressjs.com/)
@@ -69,7 +69,7 @@ This project demonstrates full-stack development skills, API integration, respon
 
 ## 🌐 Live Demo
 
-Experience the chatbot live: **[https://software-dev-chatbot-9042puy3d-rajdipcollege-gmailcoms-projects.vercel.app](https://software-dev-chatbot-9042puy3d-rajdipcollege-gmailcoms-projects.vercel.app)**
+Experience the chatbot live: ** https://software-dev-chatbot-4zz8halzr-rajdipcollege-gmailcoms-projects.vercel.app/ **
 
 ### Try These Sample Questions:
 - "Explain the time complexity of merge sort"
