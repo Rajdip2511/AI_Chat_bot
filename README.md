@@ -1,10 +1,10 @@
 # 🤖 AI-Powered Software Development Chatbot
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-blue?style=for-the-badge)](https://software-dev-chatbot-9042puy3d-rajdipcollege-gmailcoms-projects.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/Rajdip2511/AI_Chat_bot)
-[![Node.js](https://img.shields.io/badge/Node.js-18+-green?style=for-the-badge&logo=node.js)](https://nodejs.org/)
-[![Express.js](https://img.shields.io/badge/Express.js-4.18+-orange?style=for-the-badge&logo=express)](https://expressjs.com/)
-[![Mistral AI](https://img.shields.io/badge/Mistral%20AI-API-purple?style=for-the-badge)](https://mistral.ai/)
+![Live Demo]:(https://software-dev-chatbot-9042puy3d-rajdipcollege-gmailcoms-projects.vercel.app)
+![GitHub]:(https://github.com/Rajdip2511/AI_Chat_bot)
+![Node.js]:(https://nodejs.org/)
+![Express.js]:(https://expressjs.com/)
+![Mistral AI]:(https://mistral.ai/)
 
 ## 📋 Table of Contents
 - [About](#about)
